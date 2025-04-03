@@ -58,7 +58,7 @@ export default function Home() {
               Contact
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1dBgdqCksrBIdgBG36LGGONkrPXJz0INh/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GjDOjg9rt1SRTJ8toOfQhln1fMZgdRnc/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-primary transition-colors"
@@ -414,11 +414,10 @@ export default function Home() {
               </div>
               <button
                 type="submit"
-                className="w-full py-2 bg-primary hover:bg-primary/80 text-white font-medium rounded transition-colors"
-              >
-               <a href="mailto:nikamprashu03@gmail.com" className="hover:text-primary">
-               Send Message
-                </a> 
+                className="w-full py-2 bg-primary hover:bg-primary/80 text-white font-medium rounded transition-colors">
+                <a href="mailto:nikamprashu03@gmail.com" className="hover:text-primary">
+                  Send Message
+                </a>
               </button>
             </form>
             <div className="mt-8 pt-6 border-t border-slate-700">

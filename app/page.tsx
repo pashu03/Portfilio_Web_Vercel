@@ -122,7 +122,7 @@ export default function Home() {
                 <div className="w-[300px] h-[300px] relative">
                   <Image
                     // src="/prasad-profile.png"
-                    src="/pro.jpg"
+                    src="/pro.JPG"
                     alt="Prasad Nikam"
                     width={500}
                     height={300}
